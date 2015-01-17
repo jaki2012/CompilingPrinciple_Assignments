@@ -26,15 +26,15 @@ python MdCompiler.py filename.md
 李杰初 1252853 （组长）
 
 主要工作：
-1.Python编译器的Coding
-2.LexTokens的识别与YACC文法
+.Python编译器的Coding
+.LexTokens的识别与YACC文法
 
 贡献率： 60%
 
 赵沈彬 1252901
 
 主要工作：
-1.项目test优化
-2.Python，ply，MarkDown语法资料查找
+.项目test优化
+.Python，ply，MarkDown语法资料查找
 
 贡献率： 40%
