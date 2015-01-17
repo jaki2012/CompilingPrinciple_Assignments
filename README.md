@@ -8,6 +8,7 @@
     ## -->     H2
     ###-->     H3 
     列表-->    ol
+    代码块-->  <code>
     .....
     即实现了test01.md test02.md test03.md的编译
 
@@ -16,7 +17,7 @@
 
 测试文件位于项目目录MdCompiler下
 测试：
-python MdCompiler.py filename.md
+>python  MdCompiler.py  filename.md
 
 ##项目特别说明
 
