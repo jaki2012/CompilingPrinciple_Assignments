@@ -23,18 +23,18 @@ python MdCompiler.py filename.md
 
 #2.组队信息
 ##小组成员贡献说明
-李杰初 1252853 （组长）
+1.李杰初 1252853 （组长）
 
-主要工作：
-.Python编译器的Coding
-.LexTokens的识别与YACC文法
+**主要工作：**
++ Python编译器的Coding
++ LexTokens的识别与YACC文法
 
 贡献率： 60%
 
-赵沈彬 1252901
+2.赵沈彬 1252901
 
-主要工作：
-.项目test优化
-.Python，ply，MarkDown语法资料查找
+**主要工作：**
++ 项目test优化
++ Python，ply，MarkDown语法资料查找
 
 贡献率： 40%
